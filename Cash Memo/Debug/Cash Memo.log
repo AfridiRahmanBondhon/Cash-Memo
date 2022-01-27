@@ -1,0 +1,17 @@
+﻿Build started 15-Oct-19 11:33:40 PM.
+     1>Project "D:\visual studio\projects\Cash Memo\Cash Memo\Cash Memo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Cash Memo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Cash Memo.vcxproj -> D:\visual studio\projects\Cash Memo\Debug\Cash Memo.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Cash Memo.unsuccessfulbuild".
+         Touching "Debug\Cash Memo.lastbuildstate".
+     1>Done Building Project "D:\visual studio\projects\Cash Memo\Cash Memo\Cash Memo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
